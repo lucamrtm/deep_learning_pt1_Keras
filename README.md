@@ -4,7 +4,6 @@ This project implements a neural network using TensorFlow and Keras to classify 
 
 ## Project Overview
 
-The code provided demonstrates the following:
 
 - **Data loading and exploration**: Loading the Fashion MNIST dataset, inspecting the training and testing sets, and visualizing sample images.
 - **Data normalization**: Normalizing the pixel values of the images to improve model performance.
