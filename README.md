@@ -70,7 +70,7 @@ The model's performance is visualized through accuracy and loss graphs:
 
 1. Clone this repository:
     ```bash
-    git clone (https://github.com/lucamrtm/deep_learning_pt1_Keras.git)
+    git clone https://github.com/lucamrtm/deep_learning_pt1_Keras.git
     cd fashion-mnist-classification
     ```
 
